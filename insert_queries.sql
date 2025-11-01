@@ -147,4 +147,10 @@ VALUES
 ('RS118', 'IS120', '2024-05-29');
 SELECT * FROM issued_status;
 
+insert into members
+(member_id,member_name,member_address,reg_date)
+values
+('C131','sam','145 Main St','2025-10-01'),
+('C136','john','133 Main St','2025-10-21');
+
 

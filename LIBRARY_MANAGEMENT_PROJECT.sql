@@ -54,7 +54,7 @@ where category = 'Classic';
 
 -- Task 8: Find Total Rental Income by Category:
 SELECT 
- b.category,
+ b.Category,
  SUM(b.rental_price),
  COUNT(*)
 FROM 

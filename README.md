@@ -93,11 +93,3 @@ This is a learning-focused project, and feedback is always welcome! If you have 
 
 ---
 
-## 🔗 Author
-
-**Sana Sheikh**
-Aspiring Data Analyst | SQL | Data Analytics
-
----
-
-⭐ If you found this project helpful, consider giving it a star!
